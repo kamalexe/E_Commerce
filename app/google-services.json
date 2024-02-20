@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54432938445",
+    "project_id": "e-commerce-a11fa",
+    "storage_bucket": "e-commerce-a11fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54432938445:android:b6c5572bdbfda9cfd3ac84",
+        "android_client_info": {
+          "package_name": "digi.coders.my"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJBMBXjC1Pa1pmwNGHGJE5erF2SHnMKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
